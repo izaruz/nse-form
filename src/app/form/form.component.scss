@@ -1,0 +1,7 @@
+@import "../../styles-variables.scss";
+
+.form-label{
+    font-family: $google-font;
+    color: map-get($color, font-primary);
+    font-size: 1.2em;
+}
